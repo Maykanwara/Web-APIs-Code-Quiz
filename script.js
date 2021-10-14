@@ -89,9 +89,13 @@ function showQuestion(question) {
 
 
 
-//function checkAnswer(answer){
+function checkAnswer(answer){
     correct = quizQuestions[currentQuestionIndex].correctAnswer;
-    if (answer === questions.answer[i]) {Do this!!!} else {Do This instead!!!  }
+    if (answer === questions.answer[i]) {
+        //Do this!!!
+    } else {
+        //Do this instead!!! 
+     }
 
 }
 
