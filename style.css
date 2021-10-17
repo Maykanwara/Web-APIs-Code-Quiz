@@ -7,6 +7,8 @@
     --hue-neutral: 200;
     --hue-wrong: 0;
     --hue-correct: 145;
+    background-color: palevioletred
+   
 }
 body {
     --hue: var (var(--hue-neutral));
@@ -61,10 +63,11 @@ outline: none;
 
 .btn.correct {
     --hue: var(--hue-correct);
-    color: blueviolet;
+    color: green;
 }
 .btn.wrong {
     --hue: var(--hue-wrong);
+    color: maroon
 }
 
 
@@ -83,10 +86,6 @@ padding:  10px 20px;
 .hide{
     display: none;
 }
-
-
-
-
 
 
 
