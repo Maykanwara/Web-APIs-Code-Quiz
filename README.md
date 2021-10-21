@@ -1,3 +1,4 @@
+Web-APIs-Code-Quiz
 
 # Kanwara Moore
 ​
@@ -12,11 +13,11 @@ To create a Web-APIs-Code-Quiz  to display our code quiz.
 ​
 ## Link to GitHub main project page
 ​
-[Web-APIs-Code-Quiz Page on GitHub](https://github.com/Maykanwara/portfolio2.git)
+[Web-APIs-Code-Quiz Page on GitHub])(https://github.com/Maykanwara/Web-APIs-Code-Quiz)
 ​                                   
 ## Link to Deployed Application
 ​
-[Live Depoyment Link](https://maykanwara.github.io/portfolio2/)
+[Live Depoyment Link](https://maykanwara.github.io/Web-APIs-Code-Quiz/))
 
 ​
 ## Screenshots of Finished Product
