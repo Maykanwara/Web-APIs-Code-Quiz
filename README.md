@@ -13,7 +13,7 @@ To create a Web-APIs-Code-Quiz  to display our code quiz.
 ​
 ## Link to GitHub main project page
 ​
-[Web-APIs-Code-Quiz Page on GitHub])(https://github.com/Maykanwara/Web-APIs-Code-Quiz)
+[Web-APIs-Code-Quiz Page on GitHub])(https://github.com/Maykanwara/Web-APIs-Code-Quiz/))
 ​                                   
 ## Link to Deployed Application
 ​
