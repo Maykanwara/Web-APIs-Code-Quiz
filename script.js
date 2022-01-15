@@ -105,7 +105,9 @@ function checkAnswer(answer) {
 }
 
 function highScore() {
+  localStorage.getItem('id');
   console.log(input)
+
 }
 
 var questions = [
