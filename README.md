@@ -20,7 +20,7 @@ To create a Web-APIs-Code-Quiz  to display our code quiz.
 
 
 ## Screenshots of Finished Product
-
+[Screenshot](assets/codequiz.png)
 
 
 ## Contact Information
