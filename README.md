@@ -1,47 +1,32 @@
-Web-APIs-Code-Quiz
+
 
 # Kanwara Moore
-​
+
 ## Description
-​
+
 To create a Web-APIs-Code-Quiz  to display our code quiz. 
 
 ## Languages
 - HTML
 - CSS
 - JS
-​
+
 ## Link to GitHub main project page
-​
+
 [Web-APIs-Code-Quiz Page on GitHub])(https://github.com/Maykanwara/Web-APIs-Code-Quiz/))
-​                                   
+                            
 ## Link to Deployed Application
-​
-[Live Depoyment Link](https://maykanwara.github.io/Web-APIs-Code-Quiz/))
+[Live Deployment Link](https://maykanwara.github.io/Web-APIs-Code-Quiz/))
 
-​
+
 ## Screenshots of Finished Product
-​
-### Desktop Header
-​
 
-​
-### Desktop Work Section
-​
 
-​
-### Desktop Contact and Footer
-​
 
-​
-## Acknowledgements
-​
-
-​
 ## Contact Information
-​
+
 Github:[Maykanwara](https://github.com/Maykanwara)
-​
+
 Email: maykanwara@gmail.com
 
 

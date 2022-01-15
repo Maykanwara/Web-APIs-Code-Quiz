@@ -7,6 +7,7 @@ var currentQuestionIndex = 0;
 var startQuiz = document.getElementById("start-quiz");
 startButton.addEventListener("click", startGame);
 var endQuiz = document.getElementById("end-quiz");
+var input = document.getElementById("high-score");
 
 var viewScore = document.getElementById("score-button")
 
@@ -32,7 +33,7 @@ function setTime() {
     secondsLeft--;
     timerEl.textContent = "Time left:" + secondsLeft;
 
-    if (secondsLeft <= 0) {
+    if (secondsLeft <= 0 ||currentQuestionIndex >= questions.length) {
       // Stops execution of action at set interval
       clearInterval(timerInterval);
       // Calls function to create and append image
@@ -62,6 +63,7 @@ function handleClick() {
   if (!questions[currentQuestionIndex]) {
     questionContainerElement.style.display = "none";
     endQuiz.style.display = "block";
+    highScore()
   }
   getNextQuestion();
 }
@@ -100,6 +102,10 @@ function checkAnswer(answer) {
   } else {
     //Do this instead!!!
   }
+}
+
+function highScore() {
+  console.log(input)
 }
 
 var questions = [
@@ -144,6 +150,3 @@ var questions = [
   },
 ];
 
-//saveHighScore = e => {
-//console.log(clicked the save button!");
-//
